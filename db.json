@@ -31,646 +31,575 @@
     { "id": 5, "title": "plan"}
   ],
   "words": [
-             {
-               "id": 1,
-               "direction_id": 5,
-               "name": "Логопедия",
-               "status": 10,
-               "federal_point_activity_id": null,
-               "img_src": "https://directory.pfdo.ru/img/svg-program-activity/logoped.svg"
-               }
-             },
-             {
-               "id": 2,
-               "direction_id": 3,
-               "name": "Скрапбукинг",
-               "status": 10,
-               "federal_point_activity_id": null,
-               "img_src": null
-               }
-             },
-             {
-               "id": 3,
-               "direction_id": 7,
-               "name": "Хапкидо",
-               "status": 10,
-               "federal_point_activity_id": null,
-               "img_src": null
-               }
-             },
-             {
-               "id": 4,
-               "direction_id": 3,
-               "name": "Музыкальные инструменты",
-               "status": 10,
-               "federal_point_activity_id": null,
-               "img_src": "https://directory.pfdo.ru/img/svg-program-activity/lira.svg"
-               }
-             },
-             {
-               "id": 5,
-               "direction_id": 7,
-               "name": "Дзюдо",
-               "status": 10,
-               "federal_point_activity_id": null,
-               "img_src": null
-               }
-             },
-             {
-               "id": 6,
-               "direction_id": 4,
-               "name": "Физика",
-               "status": 10,
-               "federal_point_activity_id": null,
-               "img_src": "https://directory.pfdo.ru/img/svg-program-activity/atom.svg"
-               }
-             },
-             {
-               "id": 7,
-               "direction_id": 7,
-               "name": "Бокс",
-               "status": 10,
-               "federal_point_activity_id": null,
-               "img_src": null
-               }
-             },
-             {
-               "id": 8,
-               "direction_id": 6,
-               "name": "Краеведение",
-               "status": 10,
-               "federal_point_activity_id": null,
-               "img_src": "https://directory.pfdo.ru/img/svg-program-activity/kraeved.svg"
-               }
-             },
-             {
-               "id": 9,
-               "direction_id": 7,
-               "name": "Скейтбординг",
-               "status": 10,
-               "federal_point_activity_id": null,
-               "img_src": null
-               }
-             },
-             {
-               "id": 10,
-               "direction_id": 5,
-               "name": "Юриспруденция",
-               "status": 10,
-               "federal_point_activity_id": null,
-               "img_src": "https://directory.pfdo.ru/img/svg-program-activity/libra.svg"
-               }
-             },
-             {
-               "id": 11,
-               "direction_id": 4,
-               "name": "Зоология",
-               "status": 10,
-               "federal_point_activity_id": null,
-               "img_src": null
-               }
-             },
-             {
-               "id": 12,
-               "direction_id": 7,
-               "name": "Теннис (лаун-теннис)",
-               "status": 10,
-               "federal_point_activity_id": null,
-               "img_src": null
-               }
-             },
-             {
-               "id": 13,
-               "direction_id": 7,
-               "name": "Фехтование",
-               "status": 10,
-               "federal_point_activity_id": null,
-               "img_src": null
-               }
-             },
-             {
-               "id": 14,
-               "direction_id": 4,
-               "name": "Лесничество",
-               "status": 10,
-               "federal_point_activity_id": null,
-               "img_src": "https://directory.pfdo.ru/img/svg-program-activity/forest.svg"
-               }
-             },
-             {
-               "id": 15,
-               "direction_id": 7,
-               "name": "Биатлон",
-               "status": 10,
-               "federal_point_activity_id": null,
-               "img_src": null
-               }
-             },
-             {
-               "id": 16,
-               "direction_id": 5,
-               "name": "Педагогика",
-               "status": 10,
-               "federal_point_activity_id": null,
-               "img_src": "https://directory.pfdo.ru/img/svg-program-activity/teacher.svg"
-               }
-             },
-             {
-               "id": 17,
-               "direction_id": 5,
-               "name": "Языкознание (русский язык)",
-               "status": 10,
-               "federal_point_activity_id": null,
-               "img_src": "https://directory.pfdo.ru/img/svg-program-activity/russian.svg"
-               }
-             },
-             {
-               "id": 18,
-               "direction_id": 5,
-               "name": "Религиоведение",
-               "status": 10,
-               "federal_point_activity_id": null,
-               "img_src": "https://directory.pfdo.ru/img/svg-program-activity/teology.svg"
-               }
-             },
-             {
-               "id": 19,
-               "direction_id": 7,
-               "name": "Современное пятиборье",
-               "status": 10,
-               "federal_point_activity_id": null,
-               "img_src": null
-               }
-             },
-             {
-               "id": 20,
-               "direction_id": 7,
-               "name": "Легкоатлетические многоборья",
-               "status": 10,
-               "federal_point_activity_id": null,
-               "img_src": null
-               }
-             },
-             {
-               "id": 21,
-               "direction_id": 2,
-               "name": "Проектирование",
-               "status": 10,
-               "federal_point_activity_id": 67,
-               "img_src": "https://directory.pfdo.ru/img/svg-program-activity/JdiXUKDkzbandHHP5Qge.svg"
-               }
-             },
-             {
-               "id": 22,
-               "direction_id": 3,
-               "name": "Кондитерское искусство",
-               "status": 10,
-               "federal_point_activity_id": null,
-               "img_src": null
-               }
-             },
-             {
-               "id": 23,
-               "direction_id": 7,
-               "name": "Сумо",
-               "status": 10,
-               "federal_point_activity_id": null,
-               "img_src": null
-               }
-             },
-             {
-               "id": 24,
-               "direction_id": 3,
-               "name": "Бумагопластика",
-               "status": 10,
-               "federal_point_activity_id": null,
-               "img_src": "https://directory.pfdo.ru/img/svg-program-activity/origami.svg"
-               }
-             },
-             {
-               "id": 25,
-               "direction_id": 2,
-               "name": "Компьютерная графика",
-               "status": 10,
-               "federal_point_activity_id": null,
-               "img_src": "https://directory.pfdo.ru/img/svg-program-activity/graphic.svg"
-               }
-             },
-             {
-               "id": 26,
-               "direction_id": 7,
-               "name": "Конный спорт",
-               "status": 10,
-               "federal_point_activity_id": null,
-               "img_src": null
-               }
-             },
-             {
-               "id": 27,
-               "direction_id": 2,
-               "name": "Сельскохозяйственная техника",
-               "status": 10,
-               "federal_point_activity_id": null,
-               "img_src": null
-               }
-             },
-             {
-               "id": 28,
-               "direction_id": 7,
-               "name": "Рукопашный бой",
-               "status": 10,
-               "federal_point_activity_id": null,
-               "img_src": null
-               }
-             },
-             {
-               "id": 29,
-               "direction_id": 7,
-               "name": "Ледолазание",
-               "status": 10,
-               "federal_point_activity_id": null,
-               "img_src": null
-               }
-             },
-             {
-               "id": 30,
-               "direction_id": 6,
-               "name": "Пеший туризм",
-               "status": 10,
-               "federal_point_activity_id": null,
-               "img_src": "https://directory.pfdo.ru/img/svg-program-activity/foot_turist.svg"
-               }
-             },
-             {
-               "id": 31,
-               "direction_id": 7,
-               "name": "Гимнастика",
-               "status": 10,
-               "federal_point_activity_id": null,
-               "img_src": "https://directory.pfdo.ru/img/svg-program-activity/acrobat8.svg"
-               }
-             },
-             {
-               "id": 32,
-               "direction_id": 7,
-               "name": "Мотоспорт",
-               "status": 10,
-               "federal_point_activity_id": null,
-               "img_src": null
-               }
-             },
-             {
-               "id": 33,
-               "direction_id": 3,
-               "name": "Макраме",
-               "status": 10,
-               "federal_point_activity_id": null,
-               "img_src": null
-               }
-             },
-             {
-               "id": 34,
-               "direction_id": 3,
-               "name": "Декламация",
-               "status": 10,
-               "federal_point_activity_id": null,
-               "img_src": null
-               }
-             },
-             {
-               "id": 35,
-               "direction_id": 6,
-               "name": "Лыжный туризм",
-               "status": 10,
-               "federal_point_activity_id": null,
-               "img_src": null
-               }
-             },
-             {
-               "id": 36,
-               "direction_id": 2,
-               "name": "Автотехника",
-               "status": 10,
-               "federal_point_activity_id": null,
-               "img_src": "https://directory.pfdo.ru/img/svg-program-activity/auto2.svg"
-               }
-             },
-             {
-               "id": 37,
-               "direction_id": 5,
-               "name": "Социальная адаптация",
-               "status": 10,
-               "federal_point_activity_id": null,
-               "img_src": null
-               }
-             },
-             {
-               "id": 38,
-               "direction_id": 7,
-               "name": "Хоккей",
-               "status": 10,
-               "federal_point_activity_id": null,
-               "img_src": "https://directory.pfdo.ru/img/svg-program-activity/hockey.svg"
-               }
-             },
-             {
-               "id": 39,
-               "direction_id": 3,
-               "name": "Бамбукоплетение",
-               "status": 10,
-               "federal_point_activity_id": null,
-               "img_src": null
-               }
-             },
-             {
-               "id": 40,
-               "direction_id": 5,
-               "name": "Социальное воспитание",
-               "status": 10,
-               "federal_point_activity_id": null,
-               "img_src": null
-               }
-             },
-             {
-               "id": 41,
-               "direction_id": 2,
-               "name": "Обработка древесины",
-               "status": 10,
-               "federal_point_activity_id": null,
-               "img_src": "https://directory.pfdo.ru/img/svg-program-activity/saw.svg"
-               }
-             },
-             {
-               "id": 42,
-               "direction_id": 7,
-               "name": "Кобудо",
-               "status": 10,
-               "federal_point_activity_id": null,
-               "img_src": null
-               }
-             },
-             {
-               "id": 43,
-               "direction_id": 3,
-               "name": "Пирография (выжигание)",
-               "status": 10,
-               "federal_point_activity_id": null,
-               "img_src": null
-               }
-             },
-             {
-               "id": 44,
-               "direction_id": 3,
-               "name": "Лозоплетение",
-               "status": 10,
-               "federal_point_activity_id": null,
-               "img_src": null
-               }
-             },
-             {
-               "id": 45,
-               "direction_id": 4,
-               "name": "Астрономия",
-               "status": 10,
-               "federal_point_activity_id": null,
-               "img_src": "https://directory.pfdo.ru/img/svg-program-activity/ERcMNLk031CiKW8pkzNY.svg"
-               }
-             },
-             {
-               "id": 46,
-               "direction_id": 7,
-               "name": "Карате",
-               "status": 10,
-               "federal_point_activity_id": null,
-               "img_src": null
-               }
-             },
-             {
-               "id": 47,
-               "direction_id": 7,
-               "name": "Баскетбол",
-               "status": 10,
-               "federal_point_activity_id": null,
-               "img_src": "https://directory.pfdo.ru/img/svg-program-activity/basketball3.svg"
-               }
-             },
-             {
-               "id": 48,
-               "direction_id": 2,
-               "name": "Графическая документация",
-               "status": 10,
-               "federal_point_activity_id": null,
-               "img_src": null
-               }
-             },
-             {
-               "id": 49,
-               "direction_id": 4,
-               "name": "Фермерство",
-               "status": 10,
-               "federal_point_activity_id": null,
-               "img_src": null
-               }
-             },
-             {
-               "id": 50,
-               "direction_id": 2,
-               "name": "Конструирование",
-               "status": 10,
-               "federal_point_activity_id": 59,
-               "img_src": "https://directory.pfdo.ru/img/svg-program-activity/kdIHx7tXHm7WJv0eTs9V.svg"
-               }
-             },
-             {
-               "id": 51,
-               "direction_id": 6,
-               "name": "Этнический",
-               "status": 10,
-               "federal_point_activity_id": null,
-               "img_src": null
-               }
-             },
-             {
-               "id": 52,
-               "direction_id": 3,
-               "name": "Аппликация",
-               "status": 10,
-               "federal_point_activity_id": null,
-               "img_src": null
-               }
-             },
-             {
-               "id": 53,
-               "direction_id": 7,
-               "name": "Капоэйра",
-               "status": 10,
-               "federal_point_activity_id": null,
-               "img_src": null
-               }
-             },
-             {
-               "id": 54,
-               "direction_id": 6,
-               "name": "Спелеотуризм",
-               "status": 10,
-               "federal_point_activity_id": null,
-               "img_src": null
-               }
-             },
-             {
-               "id": 55,
-               "direction_id": 3,
-               "name": "Набивка ткани",
-               "status": 10,
-               "federal_point_activity_id": null,
-               "img_src": null
-               }
-             },
-             {
-               "id": 56,
-               "direction_id": 5,
-               "name": "Гражданско-патриотическое воспитание",
-               "status": 10,
-               "federal_point_activity_id": null,
-               "img_src": "https://directory.pfdo.ru/img/svg-program-activity/russia.svg"
-               }
-             },
-             {
-               "id": 57,
-               "direction_id": 3,
-               "name": "Дизайн",
-               "status": 10,
-               "federal_point_activity_id": null,
-               "img_src": null
-               }
-             },
-             {
-               "id": 58,
-               "direction_id": 3,
-               "name": "Чеканка",
-               "status": 10,
-               "federal_point_activity_id": null,
-               "img_src": null
-               }
-             },
-             {
-               "id": 59,
-               "direction_id": 3,
-               "name": "Режиссура",
-               "status": 10,
-               "federal_point_activity_id": null,
-               "img_src": null
-               }
-             },
-             {
-               "id": 60,
-               "direction_id": 6,
-               "name": "Велосипедный туризм",
-               "status": 10,
-               "federal_point_activity_id": null,
-               "img_src": null
-               }
-             },
-             {
-               "id": 61,
-               "direction_id": 5,
-               "name": "Риторика",
-               "status": 10,
-               "federal_point_activity_id": null,
-               "img_src": null
-               }
-             },
-             {
-               "id": 62,
-               "direction_id": 7,
-               "name": "Военно-спортивное многоборье",
-               "status": 10,
-               "federal_point_activity_id": null,
-               "img_src": null
-               }
-             },
-             {
-               "id": 63,
-               "direction_id": 3,
-               "name": "Парикмахерское искусство",
-               "status": 10,
-               "federal_point_activity_id": null,
-               "img_src": null
-               }
-             },
-             {
-               "id": 64,
-               "direction_id": 7,
-               "name": "Настольный теннис",
-               "status": 10,
-               "federal_point_activity_id": null,
-               "img_src": "https://directory.pfdo.ru/img/svg-program-activity/pingpong2.svg"
-               }
-             },
-             {
-               "id": 65,
-               "direction_id": 4,
-               "name": "Биология",
-               "status": 10,
-               "federal_point_activity_id": null,
-               "img_src": "https://directory.pfdo.ru/img/svg-program-activity/biology.svg"
-               }
-             },
-             {
-               "id": 66,
-               "direction_id": 7,
-               "name": "Кикбоксинг",
-               "status": 10,
-               "federal_point_activity_id": null,
-               "img_src": null
-               }
-             },
-             {
-               "id": 67,
-               "direction_id": 5,
-               "name": "История",
-               "status": 10,
-               "federal_point_activity_id": null,
-               "img_src": "https://directory.pfdo.ru/img/svg-program-activity/history.svg"
-               }
-             },
-             {
-               "id": 68,
-               "direction_id": 7,
-               "name": "Велоспорт",
-               "status": 10,
-               "federal_point_activity_id": null,
-               "img_src": null
-               }
-             },
-             {
-               "id": 69,
-               "direction_id": 7,
-               "name": "Автоспорт",
-               "status": 10,
-               "federal_point_activity_id": null,
-               "img_src": null
-               }
-             },
-             {
-               "id": 70,
-               "direction_id": 4,
-               "name": "Методология исследований",
-               "status": 10,
-               "federal_point_activity_id": null,
-               "img_src": "https://directory.pfdo.ru/img/svg-program-activity/7WZjvF30eIw9ElNXnqHI.svg"
-               }
-             },
-             {
-               "id": 71,
-               "direction_id": 4,
-               "name": "Геология",
-               "status": 10,
-               "federal_point_activity_id": null,
-               "img_src": null
-               }
-             }
-           ],
+    {
+      "id": 1,
+      "direction_id": 5,
+      "name": "Логопедия",
+      "status": 10,
+      "federal_point_activity_id": null,
+      "img_src": "https://directory.pfdo.ru/img/svg-program-activity/logoped.svg"
+    },
+    {
+      "id": 2,
+      "direction_id": 3,
+      "name": "Скрапбукинг",
+      "status": 10,
+      "federal_point_activity_id": null,
+      "img_src": null
+    },
+    {
+      "id": 3,
+      "direction_id": 7,
+      "name": "Хапкидо",
+      "status": 10,
+      "federal_point_activity_id": null,
+      "img_src": null
+    },
+    {
+      "id": 4,
+      "direction_id": 3,
+      "name": "Музыкальные инструменты",
+      "status": 10,
+      "federal_point_activity_id": null,
+      "img_src": "https://directory.pfdo.ru/img/svg-program-activity/lira.svg"
+    },
+    {
+      "id": 5,
+      "direction_id": 7,
+      "name": "Дзюдо",
+      "status": 10,
+      "federal_point_activity_id": null,
+      "img_src": null
+    },
+    {
+      "id": 6,
+      "direction_id": 4,
+      "name": "Физика",
+      "status": 10,
+      "federal_point_activity_id": null,
+      "img_src": "https://directory.pfdo.ru/img/svg-program-activity/atom.svg"
+    },
+    {
+      "id": 7,
+      "direction_id": 7,
+      "name": "Бокс",
+      "status": 10,
+      "federal_point_activity_id": null,
+      "img_src": null
+    },
+    {
+      "id": 8,
+      "direction_id": 6,
+      "name": "Краеведение",
+      "status": 10,
+      "federal_point_activity_id": null,
+      "img_src": "https://directory.pfdo.ru/img/svg-program-activity/kraeved.svg"
+    },
+    {
+      "id": 9,
+      "direction_id": 7,
+      "name": "Скейтбординг",
+      "status": 10,
+      "federal_point_activity_id": null,
+      "img_src": null
+    },
+    {
+      "id": 10,
+      "direction_id": 5,
+      "name": "Юриспруденция",
+      "status": 10,
+      "federal_point_activity_id": null,
+      "img_src": "https://directory.pfdo.ru/img/svg-program-activity/libra.svg"
+    },
+    {
+      "id": 11,
+      "direction_id": 4,
+      "name": "Зоология",
+      "status": 10,
+      "federal_point_activity_id": null,
+      "img_src": null
+    },
+    {
+      "id": 12,
+      "direction_id": 7,
+      "name": "Теннис (лаун-теннис)",
+      "status": 10,
+      "federal_point_activity_id": null,
+      "img_src": null
+    },
+    {
+      "id": 13,
+      "direction_id": 7,
+      "name": "Фехтование",
+      "status": 10,
+      "federal_point_activity_id": null,
+      "img_src": null
+    },
+    {
+      "id": 14,
+      "direction_id": 4,
+      "name": "Лесничество",
+      "status": 10,
+      "federal_point_activity_id": null,
+      "img_src": "https://directory.pfdo.ru/img/svg-program-activity/forest.svg"
+    },
+    {
+      "id": 15,
+      "direction_id": 7,
+      "name": "Биатлон",
+      "status": 10,
+      "federal_point_activity_id": null,
+      "img_src": null
+    },
+    {
+      "id": 16,
+      "direction_id": 5,
+      "name": "Педагогика",
+      "status": 10,
+      "federal_point_activity_id": null,
+      "img_src": "https://directory.pfdo.ru/img/svg-program-activity/teacher.svg"
+    },
+    {
+      "id": 17,
+      "direction_id": 5,
+      "name": "Языкознание (русский язык)",
+      "status": 10,
+      "federal_point_activity_id": null,
+      "img_src": "https://directory.pfdo.ru/img/svg-program-activity/russian.svg"
+    },
+    {
+      "id": 18,
+      "direction_id": 5,
+      "name": "Религиоведение",
+      "status": 10,
+      "federal_point_activity_id": null,
+      "img_src": "https://directory.pfdo.ru/img/svg-program-activity/teology.svg"
+    },
+    {
+      "id": 19,
+      "direction_id": 7,
+      "name": "Современное пятиборье",
+      "status": 10,
+      "federal_point_activity_id": null,
+      "img_src": null
+    },
+    {
+      "id": 20,
+      "direction_id": 7,
+      "name": "Легкоатлетические многоборья",
+      "status": 10,
+      "federal_point_activity_id": null,
+      "img_src": null
+    },
+    {
+      "id": 21,
+      "direction_id": 2,
+      "name": "Проектирование",
+      "status": 10,
+      "federal_point_activity_id": 67,
+      "img_src": "https://directory.pfdo.ru/img/svg-program-activity/JdiXUKDkzbandHHP5Qge.svg"
+    },
+    {
+      "id": 22,
+      "direction_id": 3,
+      "name": "Кондитерское искусство",
+      "status": 10,
+      "federal_point_activity_id": null,
+      "img_src": null
+    },
+    {
+      "id": 23,
+      "direction_id": 7,
+      "name": "Сумо",
+      "status": 10,
+      "federal_point_activity_id": null,
+      "img_src": null
+    },
+    {
+      "id": 24,
+      "direction_id": 3,
+      "name": "Бумагопластика",
+      "status": 10,
+      "federal_point_activity_id": null,
+      "img_src": "https://directory.pfdo.ru/img/svg-program-activity/origami.svg"
+    },
+    {
+      "id": 25,
+      "direction_id": 2,
+      "name": "Компьютерная графика",
+      "status": 10,
+      "federal_point_activity_id": null,
+      "img_src": "https://directory.pfdo.ru/img/svg-program-activity/graphic.svg"
+    },
+    {
+      "id": 26,
+      "direction_id": 7,
+      "name": "Конный спорт",
+      "status": 10,
+      "federal_point_activity_id": null,
+      "img_src": null
+    },
+    {
+      "id": 27,
+      "direction_id": 2,
+      "name": "Сельскохозяйственная техника",
+      "status": 10,
+      "federal_point_activity_id": null,
+      "img_src": null
+    },
+    {
+      "id": 28,
+      "direction_id": 7,
+      "name": "Рукопашный бой",
+      "status": 10,
+      "federal_point_activity_id": null,
+      "img_src": null
+    },
+    {
+      "id": 29,
+      "direction_id": 7,
+      "name": "Ледолазание",
+      "status": 10,
+      "federal_point_activity_id": null,
+      "img_src": null
+    },
+    {
+      "id": 30,
+      "direction_id": 6,
+      "name": "Пеший туризм",
+      "status": 10,
+      "federal_point_activity_id": null,
+      "img_src": "https://directory.pfdo.ru/img/svg-program-activity/foot_turist.svg"
+    },
+    {
+      "id": 31,
+      "direction_id": 7,
+      "name": "Гимнастика",
+      "status": 10,
+      "federal_point_activity_id": null,
+      "img_src": "https://directory.pfdo.ru/img/svg-program-activity/acrobat8.svg"
+    },
+    {
+      "id": 32,
+      "direction_id": 7,
+      "name": "Мотоспорт",
+      "status": 10,
+      "federal_point_activity_id": null,
+      "img_src": null
+    },
+    {
+      "id": 33,
+      "direction_id": 3,
+      "name": "Макраме",
+      "status": 10,
+      "federal_point_activity_id": null,
+      "img_src": null
+    },
+    {
+      "id": 34,
+      "direction_id": 3,
+      "name": "Декламация",
+      "status": 10,
+      "federal_point_activity_id": null,
+      "img_src": null
+    },
+    {
+      "id": 35,
+      "direction_id": 6,
+      "name": "Лыжный туризм",
+      "status": 10,
+      "federal_point_activity_id": null,
+      "img_src": null
+    },
+    {
+      "id": 36,
+      "direction_id": 2,
+      "name": "Автотехника",
+      "status": 10,
+      "federal_point_activity_id": null,
+      "img_src": "https://directory.pfdo.ru/img/svg-program-activity/auto2.svg"
+    },
+    {
+      "id": 37,
+      "direction_id": 5,
+      "name": "Социальная адаптация",
+      "status": 10,
+      "federal_point_activity_id": null,
+      "img_src": null
+    },
+    {
+      "id": 38,
+      "direction_id": 7,
+      "name": "Хоккей",
+      "status": 10,
+      "federal_point_activity_id": null,
+      "img_src": "https://directory.pfdo.ru/img/svg-program-activity/hockey.svg"
+    },
+    {
+      "id": 39,
+      "direction_id": 3,
+      "name": "Бамбукоплетение",
+      "status": 10,
+      "federal_point_activity_id": null,
+      "img_src": null
+    },
+    {
+      "id": 40,
+      "direction_id": 5,
+      "name": "Социальное воспитание",
+      "status": 10,
+      "federal_point_activity_id": null,
+      "img_src": null
+    },
+    {
+      "id": 41,
+      "direction_id": 2,
+      "name": "Обработка древесины",
+      "status": 10,
+      "federal_point_activity_id": null,
+      "img_src": "https://directory.pfdo.ru/img/svg-program-activity/saw.svg"
+    },
+    {
+      "id": 42,
+      "direction_id": 7,
+      "name": "Кобудо",
+      "status": 10,
+      "federal_point_activity_id": null,
+      "img_src": null
+    },
+    {
+      "id": 43,
+      "direction_id": 3,
+      "name": "Пирография (выжигание)",
+      "status": 10,
+      "federal_point_activity_id": null,
+      "img_src": null
+    },
+    {
+      "id": 44,
+      "direction_id": 3,
+      "name": "Лозоплетение",
+      "status": 10,
+      "federal_point_activity_id": null,
+      "img_src": null
+    },
+    {
+      "id": 45,
+      "direction_id": 4,
+      "name": "Астрономия",
+      "status": 10,
+      "federal_point_activity_id": null,
+      "img_src": "https://directory.pfdo.ru/img/svg-program-activity/ERcMNLk031CiKW8pkzNY.svg"
+    },
+    {
+      "id": 46,
+      "direction_id": 7,
+      "name": "Карате",
+      "status": 10,
+      "federal_point_activity_id": null,
+      "img_src": null
+    },
+    {
+      "id": 47,
+      "direction_id": 7,
+      "name": "Баскетбол",
+      "status": 10,
+      "federal_point_activity_id": null,
+      "img_src": "https://directory.pfdo.ru/img/svg-program-activity/basketball3.svg"
+    },
+    {
+      "id": 48,
+      "direction_id": 2,
+      "name": "Графическая документация",
+      "status": 10,
+      "federal_point_activity_id": null,
+      "img_src": null
+    },
+    {
+      "id": 49,
+      "direction_id": 4,
+      "name": "Фермерство",
+      "status": 10,
+      "federal_point_activity_id": null,
+      "img_src": null
+    },
+    {
+      "id": 50,
+      "direction_id": 2,
+      "name": "Конструирование",
+      "status": 10,
+      "federal_point_activity_id": 59,
+      "img_src": "https://directory.pfdo.ru/img/svg-program-activity/kdIHx7tXHm7WJv0eTs9V.svg"
+    },
+    {
+      "id": 51,
+      "direction_id": 6,
+      "name": "Этнический",
+      "status": 10,
+      "federal_point_activity_id": null,
+      "img_src": null
+    },
+    {
+      "id": 52,
+      "direction_id": 3,
+      "name": "Аппликация",
+      "status": 10,
+      "federal_point_activity_id": null,
+      "img_src": null
+    },
+    {
+      "id": 53,
+      "direction_id": 7,
+      "name": "Капоэйра",
+      "status": 10,
+      "federal_point_activity_id": null,
+      "img_src": null
+    },
+    {
+      "id": 54,
+      "direction_id": 6,
+      "name": "Спелеотуризм",
+      "status": 10,
+      "federal_point_activity_id": null,
+      "img_src": null
+    },
+    {
+      "id": 55,
+      "direction_id": 3,
+      "name": "Набивка ткани",
+      "status": 10,
+      "federal_point_activity_id": null,
+      "img_src": null
+    },
+    {
+      "id": 56,
+      "direction_id": 5,
+      "name": "Гражданско-патриотическое воспитание",
+      "status": 10,
+      "federal_point_activity_id": null,
+      "img_src": "https://directory.pfdo.ru/img/svg-program-activity/russia.svg"
+    },
+    {
+      "id": 57,
+      "direction_id": 3,
+      "name": "Дизайн",
+      "status": 10,
+      "federal_point_activity_id": null,
+      "img_src": null
+    },
+    {
+      "id": 58,
+      "direction_id": 3,
+      "name": "Чеканка",
+      "status": 10,
+      "federal_point_activity_id": null,
+      "img_src": null
+    },
+    {
+      "id": 59,
+      "direction_id": 3,
+      "name": "Режиссура",
+      "status": 10,
+      "federal_point_activity_id": null,
+      "img_src": null
+    },
+    {
+      "id": 60,
+      "direction_id": 6,
+      "name": "Велосипедный туризм",
+      "status": 10,
+      "federal_point_activity_id": null,
+      "img_src": null
+    },
+    {
+      "id": 61,
+      "direction_id": 5,
+      "name": "Риторика",
+      "status": 10,
+      "federal_point_activity_id": null,
+      "img_src": null
+    },
+    {
+      "id": 62,
+      "direction_id": 7,
+      "name": "Военно-спортивное многоборье",
+      "status": 10,
+      "federal_point_activity_id": null,
+      "img_src": null
+    },
+    {
+      "id": 63,
+      "direction_id": 3,
+      "name": "Парикмахерское искусство",
+      "status": 10,
+      "federal_point_activity_id": null,
+      "img_src": null
+    },
+    {
+      "id": 64,
+      "direction_id": 7,
+      "name": "Настольный теннис",
+      "status": 10,
+      "federal_point_activity_id": null,
+      "img_src": "https://directory.pfdo.ru/img/svg-program-activity/pingpong2.svg"
+    },
+    {
+      "id": 65,
+      "direction_id": 4,
+      "name": "Биология",
+      "status": 10,
+      "federal_point_activity_id": null,
+      "img_src": "https://directory.pfdo.ru/img/svg-program-activity/biology.svg"
+    },
+    {
+      "id": 66,
+      "direction_id": 7,
+      "name": "Кикбоксинг",
+      "status": 10,
+      "federal_point_activity_id": null,
+      "img_src": null
+    },
+    {
+      "id": 67,
+      "direction_id": 5,
+      "name": "История",
+      "status": 10,
+      "federal_point_activity_id": null,
+      "img_src": "https://directory.pfdo.ru/img/svg-program-activity/history.svg"
+    },
+    {
+      "id": 68,
+      "direction_id": 7,
+      "name": "Велоспорт",
+      "status": 10,
+      "federal_point_activity_id": null,
+      "img_src": null
+    },
+    {
+      "id": 69,
+      "direction_id": 7,
+      "name": "Автоспорт",
+      "status": 10,
+      "federal_point_activity_id": null,
+      "img_src": null
+    },
+    {
+      "id": 70,
+      "direction_id": 4,
+      "name": "Методология исследований",
+      "status": 10,
+      "federal_point_activity_id": null,
+      "img_src": "https://directory.pfdo.ru/img/svg-program-activity/7WZjvF30eIw9ElNXnqHI.svg"
+    },
+    {
+      "id": 71,
+      "direction_id": 4,
+      "name": "Геология",
+      "status": 10,
+      "federal_point_activity_id": null,
+      "img_src": null
+    }
+  ],
   "membersCount": [
     {"id": 1, "label": "1-10"},
     {"id": 3, "label": "10-25"},
